@@ -1,0 +1,9 @@
+site_name: MakeCode MkDocs Example
+site_description: A documentation website built with MkDocs that supports MakeCode block rendering
+theme: material
+libs: jquery
+extra_css:
+  - 'css/extra.css'
+extra_javascript:
+  - js/jquery-3.4.1.min.js
+  - js/embed.js
