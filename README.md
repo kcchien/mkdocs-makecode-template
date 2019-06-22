@@ -1,6 +1,6 @@
 # pxt-mkdocs-sample
 
-View the [demo here](https://microsoft.github.io/pxt-mkdocs-sample/).
+View the [demo here](https://kcchien.github.io/mkdocs-makecode-template/).
 
 This repo is a documentation website generated with [mkdocs.org](http://mkdocs.org) using Microsoft MakeCode for rendering the blocks code.
 
@@ -25,7 +25,7 @@ extra_javascript:
 
 ## add embed.js
 
-Copy the [embed.js]() file from this repo and insert it into your /docs folder
+Copy the [embed.js]() and [jquery-3.4.1.min.js]() file from this repo and insert it into your /docs/js folder
 
 ## configure embed.js
 
